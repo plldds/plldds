@@ -1,6 +1,6 @@
 ### Hey 👋, I'm [破洛洛](https://oluoluo.me)!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=plldds&show_icons=true) <img src="https://poluoluo.me/assets/images/qrcode.jpg" alt="破洛洛">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=plldds&show_icons=true) <img src="https://poluoluo.me/assets/images/qrcode.jpg" alt="破洛洛" width= "196px" height="196px" >
 
 <a title="Hits" target="_blank" href="https://github.com/plldds/plldds"><img src="https://hits.b3log.org/mzlogin/mzlogin.svg"></a>
 
