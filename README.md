@@ -1,11 +1,11 @@
 ### Hey 👋, I'm [破洛洛](https://oluoluo.me)!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=plldds&show_icons=true) <img src="https://cdn.jsdelivr.net/gh/mzlogin/blog-assets@master/qrcode_196.jpg" alt="闷骚的程序员">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=plldds&show_icons=true) <img src="https://poluoluo.me/assets/images/qrcode.jpg" alt="破洛洛">
 
 <a title="Hits" target="_blank" href="https://github.com/plldds/plldds"><img src="https://hits.b3log.org/mzlogin/mzlogin.svg"></a>
 
 <!--
-**mzlogin/mzlogin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**plldds/plldds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
